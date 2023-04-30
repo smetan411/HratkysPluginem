@@ -1,0 +1,4 @@
+name: HratkysPluginem
+version: '${project.version}'
+main: hratkyspluginem.HratkysPluginemMain
+api-version: 1.18
